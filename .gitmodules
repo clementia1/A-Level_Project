@@ -7,3 +7,9 @@
 [submodule "Shop.Web.UI"]
 	path = Shop.Web.UI
 	url = https://github.com/clementia1/Shop.Web.UI.git
+[submodule "IdentityServer"]
+	path = IdentityServer
+	url = https://github.com/clementia1/IdentityServer.git
+[submodule "ratelimit.api"]
+	path = ratelimit.api
+	url = https://github.com/clementia1/ratelimit.api.git
