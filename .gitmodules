@@ -4,3 +4,6 @@
 [submodule "pizza.api"]
 	path = pizza.api
 	url = https://github.com/clementia1/pizza.api.git
+[submodule "Shop.Web.UI"]
+	path = Shop.Web.UI
+	url = https://github.com/clementia1/Shop.Web.UI.git
