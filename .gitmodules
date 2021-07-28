@@ -1,3 +1,6 @@
 [submodule "cart.api"]
 	path = cart.api
 	url = https://github.com/clementia1/cart.api.git
+[submodule "pizza.api"]
+	path = pizza.api
+	url = https://github.com/clementia1/pizza.api.git
